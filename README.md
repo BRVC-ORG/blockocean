@@ -2,4 +2,4 @@
 
 Blockocean code and symbol
 
-§ (Blockocean symbol) - section sign, historically
+§ (flipped 90-degrees clockwise, Blockocean symbol) - section sign, historically
